@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduated student from the School of Information Science and Technology at [ShanghaiTech University](http://www.shanghaitech.edu.cn/eng/), China.
+I am a graduate student from the School of Information Science and Technology at [ShanghaiTech University](http://www.shanghaitech.edu.cn/eng/), China.
 
-I was born in September, 1985, in [Zhengzhou](https://en.wikipedia.org/wiki/Zhengzhou), China. I received the B.S. degree in electrical engineering from Wuhan University, China, in 2009, the M.S. degree in electronic circuits and systems from Northeast Normal University, China, in 2013, and the Dr. Eng. degree in Information Engineering from Hokkaido University (Supervisor: Prof. [Mineichi Kudo](https://prml.main.ist.hokudai.ac.jp/member/mineichi-kudo/)), in 2017. During 2017-2019, I worked as a postdoctoral research under the supervision of Prof. [Hiroshi Mamitsuka](https://www.bic.kyoto-u.ac.jp/pathway/mami/) at Kyoto University. In November 2019, I joined the faculty of ShanghaiTech University as a tenure-track assistant professor.
+I was born in November, 1997, in [Taiyuan](https://en.wikipedia.org/wiki/Taiyuan), China. I received the B.S. degree in electrical engineering from Fuzhou University, China, in 2019 and now pursue my M.S. degree in electronic circuits and systems from ShanghaiTech University, China from 2020.
 
-**Email**: sunlu1@shanghaitech.edu.cn
+**Email**: @
 
-**Office**: Room 1C-403E, SIST, 393 Middle Huanxia Road, Pudong District, Shanghai 201210, China.
+**Office**: SIST, 393 Middle Huanxia Road, Pudong District, Shanghai 201210, China.
 
-**Research Interests**: Machine Learning, Patttern Recognition and Data Mining.
+**Research Interests**: Power electronics, Condition monitoring.
