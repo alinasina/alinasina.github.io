@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lu SUN 孙 露"
+title                    : "Darren"
 title_separator          : "-"
-name                     : &name "Lu SUN"
-description              : &description "Assistant Professor at ShanghaiTech University"
-url                      : https://futuresun912.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Darren"
+description              : &description "Graduate Student"
+url                      : https://alinasina.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "futuresun912.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lu SUN 孙 露"
-  avatar           : "Lu_Sun.jpg"
-  bio              : "Assistant Professor at ShanghaiTech University"
+  name             : "Darren"
+  avatar           : "Darren.jpg"
+  bio              : "Graduate Student"
   location         : "Shanghai, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "futuresun912"
+  github           : "alinasina"
   google_plus      :
   keybase          :
   instagram        :
