@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-spring-teaching-1
 venue: "ShanghaiTech University, School of Information Science and Technology"
-date: 
+date: 2022-03-20
 location: "Shanghai, China"
 ---
 
