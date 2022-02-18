@@ -1,10 +1,10 @@
 ---
-title: "Data Visualization"
+title: "Power electronics"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2020-autumn-teaching-1
 venue: "ShanghaiTech University, School of Information Science and Technology"
-date: 2020-09-10
+date: 
 location: "Shanghai, China"
 ---
 

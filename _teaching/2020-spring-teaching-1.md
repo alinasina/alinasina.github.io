@@ -1,10 +1,10 @@
 ---
-title: "Optimization and Machine Learning"
+title: "Circuit Theory"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-spring-teaching-1
 venue: "ShanghaiTech University, School of Information Science and Technology"
-date: 2020-02-10
+date: 
 location: "Shanghai, China"
 ---
 
