@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: "Daily Schedule"
 permalink: /research/
 author_profile: true
 redirect_from:
@@ -9,17 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-**Parameter Estimation** <br />
-To estimate the components.
+**20220219 Hardware estimation scheme**: <br />
 
-**Publications**: <br />
+* **Review**  All the hardware solutions for estimation of capacitance<br />
+*  **Hardware**  Simple circuit offline test capacitance using DSP<br />
 
-* **Darren**  APEC<br />
-*  <br /> <br />
-
-**Fault diagnosis** <br />
-Hard fault and software fault.
-
-**Publications**: <br />
-* **Darren**, APEC. <br />
+* **Simulation**  PSIM for estimation using PSD method by MATLAB<br />
+* **Skill**  Mike, start new topic of Gu (Notes)<br />
+* **Innovation**  Star rules?<br />
+* **TDL**  <br />
+  * CV update.
 
