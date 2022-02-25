@@ -4,7 +4,7 @@ title: "Resources"
 permalink: /resources/
 author_profile: true
 redirect_from:
-  - /research
+  - /resources
 ---
 
 {% include base_path %}
