@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : 
-  email            :
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -116,7 +116,7 @@ author:
   youtube          :
   wikipedia        :
   # CSDN             : # https://blog.csdn.net/alinasina?spm=1000.2115.3001.5343
-  zhihu            :  https://www.zhihu.com/people/alinasina
+  zhihu            :  "https://www.zhihu.com/people/alinasina"
 
 
 # Reading Files
