@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student from the School of Information Science and Technology at [ShanghaiTech University](http://www.shanghaitech.edu.cn/eng/), China.
-
-I was born in November, 1997, in [Taiyuan](https://en.wikipedia.org/wiki/Taiyuan), China. I received the B.S. degree in electrical engineering from Fuzhou University, China, in 2019 and now pursue my M.S. degree in electronic circuits and systems from ShanghaiTech University, China from 2020.
+Mr. Darren received the B.S. degree of Electrical Engineering and Automation from Fuzhou University, Fuzhou, Fujian, China, in Summer 2019.  
+He is currently working towards the M.S. degree in Electrical Engineering, in the School of Information Science and Technology, ShanghaiTech University, Shanghai,China. 
+His research interests include fault diagnosis and condition monitoring of power electronic circuits.
 
 **Per Link**: [CSDN](https://blog.csdn.net/alinasina?spm=1000.2115.3001.5343)/ [Zhihu](https://www.zhihu.com/people/alinasina)
 
