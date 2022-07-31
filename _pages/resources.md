@@ -11,7 +11,26 @@ redirect_from:
 
 **Userful Links**: <br />
 
-* University websites
+- 2022 Upcoming conference
+
+  ​	
+
+  | [The 25th China Power Supply Society Conference and Exhibition(CPSSC)](http://meeting.cpss.org.cn/Home/Menu/9a8af392-a300-411d-a4fe-7eeb9a410c67) | Nov 4-7               | Guangzhou |
+  | ------------------------------------------------------------ | --------------------- | --------- |
+  | [2022 亚洲电源、电机、电动车技术创新发展论坛](https://meeting.21dianyuan.com/city2022/shanghai_index) | Sep 3                 | Shanghai  |
+  | [The 2022 Annual ShanghaiTech Symposium on Information Science and Technology (ASSIST)](https://ssist.shanghaitech.edu.cn/2022/index) | Aug 27-28,            | Shanghai  |
+  | [中国电源学会专业技术培训【第59期】新能源汽车开关电源设计及电磁兼容检测、应用在线研修班](https://www.cpss.org.cn/Home/NewsDetail?categoryName=&newsid=b071ba47-68c2-41fc-9d41-a757289c5384&colId=57bf9951-639b-4ff2-85e9-09e69085998a) | Aug 13-14(8:30-12:00) | online    |
+  | [2022年电源云讲坛第6期-电力电子装置可靠性专题](https://meeting.tencent.com/dw/G65bvf4G9OjU?login_type=0&sync_to_meeting=true&from_source=from_h5_save_meeting_click) | Jul 23 (9:00-12:00)   | online    |
+  |                                                              |                       |           |
+
+  - [The 25th China Power Supply Society Conference and Exhibition(CPSSC)](http://meeting.cpss.org.cn/Home/Menu/9a8af392-a300-411d-a4fe-7eeb9a410c67), Nov 4-7, 2022, Guangzhou  
+  - [2022 亚洲电源、电机、电动车技术创新发展论坛](https://meeting.21dianyuan.com/city2022/shanghai_index), Sep 3, 2022, Shanghai
+  - [The 2022 Annual ShanghaiTech Symposium on Information Science and Technology (ASSIST)](https://ssist.shanghaitech.edu.cn/2022/index), Aug 27-28, 2022, Shanghai
+  - [中国电源学会专业技术培训【第59期】新能源汽车开关电源设计及电磁兼容检测、应用在线研修班](https://www.cpss.org.cn/Home/NewsDetail?categoryName=&newsid=b071ba47-68c2-41fc-9d41-a757289c5384&colId=57bf9951-639b-4ff2-85e9-09e69085998a), Aug 13-14(8:30-12:00), 2022, online
+  - [2022年电源云讲坛第6期-电力电子装置可靠性专题](https://meeting.tencent.com/dw/G65bvf4G9OjU?login_type=0&sync_to_meeting=true&from_source=from_h5_save_meeting_click), Jul 23 (9:00-12:00), 2022, online
+    - 上海交通大学-研究员-马珂，电力电子器件可靠性建模，《电力电子工况模拟及测试》	
+
+* University websites or centers
 
   [College of Electrical Engineering Zhejiang University](http://ee.zju.edu.cn/main.htm)
 
@@ -51,7 +70,7 @@ redirect_from:
 
   [Institute of Electrical and Electronic Engineers (IEEE)](http://www.ieee.org/portal/site)
 
-  [China Power Supply Society](http://www.cpss.org.cn/)
+  [China Power Supply Society(CPSS)](http://www.cpss.org.cn/)
 
   [IEEE Power Electronics Society (PELS)](http://www.pels.org/)
 
@@ -87,5 +106,61 @@ redirect_from:
 
   [International Council for Machinery Lubrication (ICML)](https://www.icmlonline.com/Default.aspx)
 
+
+- Training Link
+
+  [IEEE Article Templete](https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/authoring-tools-and-templates/tools-for-ieee-authors/ieee-article-templates/)
+
+  [日置(上海)测量技术有限公司](https://www.hioki.cn/html/methods/power.html)
+
+  [21世纪电源网](https://bbs.21dianyuan.com/activity.php?category=meeting)
+
+  [电子研习社](https://www.eeyxs.com/livebroadcast/index/index.html)
+
+  [电路城](https://www.cirmall.com/search/?keyword=电源电路&source=circuit)
+
+  [摩尔吧](https://www.moore8.com/)
+
+  [Ti培训](https://edu.21ic.com/)
+
+  [极寒钛](http://www.jh-tec.cn/archives/4685)
+
+  [IC封装网](https://www.iclib.com/)
+
+  [Ultralibrarian](https://www.ultralibrarian.com/)
+
+  [3DContentcentral ](https://www.3dcontentcentral.cn/)
+
+  [Filter design](http://sim.okawa-denshi.jp/en/Fkeisan.htm)
+
   
 
+  [from Data to Viz](From Data to Viz leads you to the most appropriate graph for your data. It links to the code to build it and lists common caveats you should avoid.) /rom Data to Viz leads you to the most appropriate graph for your data. Author: [Yan Holtz](https://www.yan-holtz.com/)
+
+  [scikit-learn](https://scikit-learn.org/stable/) machine learning in python
+
+  [paperwithcode](https://paperswithcode.com/) ML with code
+
+  [arXiv](https://arxiv.org/search/math) Cornell University
+
+  [最优化：建模、算法和理论](https://bicmr.pku.edu.cn/~wenzw/optbook.html)
+
+  
+
+  [Academic Phrasebank](https://www.phrasebank.manchester.ac.uk/) academic writing
+
+  [NetSpeak](https://netspeak.org/?lang=en#q=)
+
+  [Writhing & Improve](https://writeandimprove.com/)
+
+  [Connected Papers](https://www.connectedpapers.com/)
+
+  [谷粉学术](https://gfsoso.99lb.net/)
+
+  [Linux Runoob.com](https://www.runoob.com/linux/linux-shell-test.html)
+
+  [HDLbits](https://hdlbits.01xz.net/wiki/Main_Page)****
+
+  
+
+​	
