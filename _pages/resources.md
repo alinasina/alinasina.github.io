@@ -15,13 +15,13 @@ redirect_from:
 
   ​	
 
-  | [The 25th China Power Supply Society Conference and Exhibition(CPSSC)](http://meeting.cpss.org.cn/Home/Menu/9a8af392-a300-411d-a4fe-7eeb9a410c67) | Nov 4-7               | Guangzhou |
+  | Conference Title                                             | Time                  | Place     |
   | ------------------------------------------------------------ | --------------------- | --------- |
+  | [The 25th China Power Supply Society Conference and Exhibition(CPSSC)](http://meeting.cpss.org.cn/Home/Menu/9a8af392-a300-411d-a4fe-7eeb9a410c67) | Nov 4-7               | Guangzhou |
   | [2022 亚洲电源、电机、电动车技术创新发展论坛](https://meeting.21dianyuan.com/city2022/shanghai_index) | Sep 3                 | Shanghai  |
   | [The 2022 Annual ShanghaiTech Symposium on Information Science and Technology (ASSIST)](https://ssist.shanghaitech.edu.cn/2022/index) | Aug 27-28,            | Shanghai  |
   | [中国电源学会专业技术培训【第59期】新能源汽车开关电源设计及电磁兼容检测、应用在线研修班](https://www.cpss.org.cn/Home/NewsDetail?categoryName=&newsid=b071ba47-68c2-41fc-9d41-a757289c5384&colId=57bf9951-639b-4ff2-85e9-09e69085998a) | Aug 13-14(8:30-12:00) | online    |
   | [2022年电源云讲坛第6期-电力电子装置可靠性专题](https://meeting.tencent.com/dw/G65bvf4G9OjU?login_type=0&sync_to_meeting=true&from_source=from_h5_save_meeting_click) | Jul 23 (9:00-12:00)   | online    |
-  |                                                              |                       |           |
 
   - [The 25th China Power Supply Society Conference and Exhibition(CPSSC)](http://meeting.cpss.org.cn/Home/Menu/9a8af392-a300-411d-a4fe-7eeb9a410c67), Nov 4-7, 2022, Guangzhou  
   - [2022 亚洲电源、电机、电动车技术创新发展论坛](https://meeting.21dianyuan.com/city2022/shanghai_index), Sep 3, 2022, Shanghai
@@ -29,6 +29,8 @@ redirect_from:
   - [中国电源学会专业技术培训【第59期】新能源汽车开关电源设计及电磁兼容检测、应用在线研修班](https://www.cpss.org.cn/Home/NewsDetail?categoryName=&newsid=b071ba47-68c2-41fc-9d41-a757289c5384&colId=57bf9951-639b-4ff2-85e9-09e69085998a), Aug 13-14(8:30-12:00), 2022, online
   - [2022年电源云讲坛第6期-电力电子装置可靠性专题](https://meeting.tencent.com/dw/G65bvf4G9OjU?login_type=0&sync_to_meeting=true&from_source=from_h5_save_meeting_click), Jul 23 (9:00-12:00), 2022, online
     - 上海交通大学-研究员-马珂，电力电子器件可靠性建模，《电力电子工况模拟及测试》	
+    - 伊顿电气-研发经理-曹磊，不间断电源及其储能变流器（PCS）的可靠性设计
+    - AAU-教授-王怀，
 
 * University websites or centers
 
