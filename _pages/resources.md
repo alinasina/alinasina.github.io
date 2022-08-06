@@ -27,29 +27,20 @@ redirect_from:
 
 - Learning resources
 
-  | English Learning                                             |                                                              |          |
-  | ------------------------------------------------------------ | ------------------------------------------------------------ | -------- |
-  | ![image-20220806230732943](resources/image-20220806230732943.png) | [我是阳离子](https://space.bilibili.com/314797142?spm_id_from=333.337.search-card.all.click) | 旅行生活 |
-  |                                                              |                                                              |          |
-  |                                                              |                                                              |          |
-  |                                                              |                                                              |          |
-  |                                                              |                                                              |          |
-  |                                                              |                                                              |          |
-  |                                                              |                                                              |          |
-  |                                                              |                                                              |          |
-  |                                                              |                                                              |          |
-
-  
-
-  - 
-  - [Mike老师](https://space.bilibili.com/19859602?spm_id_from=333.337.search-card.all.click)：采访
-  - [Mason英语](https://space.bilibili.com/18562567/video)：日常生活
-  - [英语老师Lee](https://space.bilibili.com/131058159/video) : 影视听力
-  - [3Blue1Brown](https://space.bilibili.com/88461692)：直观数学
-  - [Vincel老师](https://space.bilibili.com/396671281?spm_id_from=333.337.search-card.all.click)：雅思英语
+  - English Learning
+    - [我是阳离子](https://space.bilibili.com/314797142?spm_id_from=333.337.search-card.all.click)：旅行生活
+    - [Mike老师](https://space.bilibili.com/19859602?spm_id_from=333.337.search-card.all.click)：采访
+    - [Mason英语](https://space.bilibili.com/18562567/video)：日常生活
+    - [英语老师Lee](https://space.bilibili.com/131058159/video) : 影视听力
+    - [3Blue1Brown](https://space.bilibili.com/88461692)：直观数学
+    - [Vincel老师](https://space.bilibili.com/396671281?spm_id_from=333.337.search-card.all.click)：雅思英语
 
   - Power Ele
-    - 
+    - [电力电子电机硕博士](https://space.bilibili.com/402754182/?spm_id_from=333.999.0.0): 国内博士群
+    - [硬核博士老J](https://space.bilibili.com/633455709/): 湾区硬件up
+    - [泡瓦伊莱超尼克斯](https://www.zhihu.com/people/zhang-shen-hua-60/answers): 西交
+    - [小猫钓鱼](https://www.zhihu.com/people/XiaoMaoXiaoYuGan/columns): 大连理工，精彩的三相变换分析
+
 
 
 * University websites or centers
